@@ -3,7 +3,7 @@ File:    phone.py
 Author:  Toni Olafunmiloye
 Date:    12/4/20
 Section: 41
-E-mail:  oolafun1@umbc.edu
+E-mail:  
 Description: The file is the phone class, either connects or disconnects
 """
 
